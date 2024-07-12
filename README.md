@@ -7,33 +7,66 @@
 ### Personal Information
 
 - **Name:** **Itumeleng Matlala**
-- **Date:** **
+- **Date:** ****
 - **Current Role/Position:** **Student**
-- **Field of Interest:** **Web Development and design**
+- **Field of Interest:** **Web Development and Design**
 
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - Current Skills & Areas of Expertise.
+        - HTML
+        - CSS
+        - Git Version Control
+
+    - Skills to Develop or Improve.
+        - CSS Animation
+        - Responsive Web Design
+        - Javascript
+
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - Key Interests Related to My Career.
+        - Web Development
+        - Web Applications
+        - Contributing and Collaborating on Open-Source Projects
+        - Web Development Algorithms
+
+    - Important Values in My Work Environment
+        - The Commitment to Keeping up with the latest Frameworks, Technologies and  leading Practises.
+        - Through Teamwork and communication with other programmers or Code Reviews 
 
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - List Industries or Roles I've researched.
+        - Front-End Developer
+        - Game Developer
+        - Back-End Developer
+        - Full-Stack Developer
+        - Web Developer
+        - Artificial Intelligence
+
+    - Areas that Piqued My Interest.
+        - Full-Stack Development
+        - Game Development
+        - Web Development    
+
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - Reflection on Industries/Roles.
+        - Full-stack Development aligns with my goal of understanding and mastering both front and back-end technologies.
+        - Game Development aligns with my Undying love for video games.
+        - Web Development aligns with my understanding on HTML and CSS and ultimately JavaScript.
+
+    - Gaps or Areas for Further Exploration.
+        - Need to gain more experience on front-end development.
+        - Matering HTML and CSS
+        - Understanding and mastering Javascript and Reactjs.
 
 
 ### Part 3: SMART Career Goals
@@ -42,6 +75,7 @@
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
     - Explain the rationale behind each goal.
+
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
@@ -54,6 +88,7 @@
     
     - Detail specific actions or steps needed to achieve each short-term goal.
     - Include any resources or support required.
+
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
@@ -66,6 +101,7 @@
     
     - Identify potential obstacles or challenges in reaching your goals.
     - Consider strategies to overcome these challenges.
+
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.

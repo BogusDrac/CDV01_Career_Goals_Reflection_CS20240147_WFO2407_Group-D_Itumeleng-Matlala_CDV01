@@ -73,13 +73,17 @@
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - Complete Software Development Fundamentals
+        - Enhance my proficiency in HTML & CSS.
+    - Complete Javascript
+        - learn and undersatand JavaScript language and Dynamic JavaScript Language.    
 
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - Master Full-Stack Development
+        - Gain practical experience in both front and back end development.
+    - Contribute to Open-Source projects
+        - To create free projects for the improvement and progress of programming.     
 
 
 ### Part 4: Action Plan

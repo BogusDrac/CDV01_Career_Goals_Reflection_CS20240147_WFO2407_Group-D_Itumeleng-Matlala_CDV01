@@ -16,10 +16,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** **Itumeleng Matlala**
+- **Date:** **
+- **Current Role/Position:** **Student**
+- **Field of Interest:** **Web Development and design**
 
 ### Part 1: Self-Assessment Reflection
 

@@ -106,8 +106,8 @@
     - Mastering Web-Development
         - Through mastering JavaScript and CSS 
         - Learning and mastering JavaScript framworks:
-                                                      - Angular
-                                                      - React
+             - Angular
+             - React
     - Become Full-stack Developer
         - Mastering python 
     - Create my own Games                                                     

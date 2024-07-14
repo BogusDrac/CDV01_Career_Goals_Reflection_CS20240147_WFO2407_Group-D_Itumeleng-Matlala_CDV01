@@ -90,25 +90,44 @@
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Actions or Steps
+        - I'm enrolled in CodeSpace Software Development Program.
+        - Building my own small projects through the concepts I've learned.
+        - I watch online tutorials and resources such as daily.dev to keep up to date.
+
+    - Resources.
+        - w3schools
+        - daily.dev
+        - Dummie books (web-dev for dummies & html5 and css3 all in one for dummies)
+        - Phoenix Code
 
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Mastering Web-Development
+        - Through mastering JavaScript and CSS 
+        - Learning and mastering JavaScript framworks:
+                                                      - Angular
+                                                      - React
+    - Become Full-stack Developer
+        - Mastering python 
+    - Create my own Games                                                     
 
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - The broad and vast amount of information and upgrades(improvements/new tech/software)
+        - It's a bit of an overload but with the CodeSpace curriculum i'm starting to wrap ny head around it.
+    - CSS 
+        - I've being practicing through building my own projects to better understand CSS.        
 
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - Educational Opportunity.
+        - Zoom sessions
+        - Scrimba Town Hall session
+        - Coaching session with @Nelson (experienced professional who guides me)
+
 
 

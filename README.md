@@ -7,7 +7,7 @@
 ### Personal Information
 
 - **Name:** **Itumeleng Matlala**
-- **Date:** ****
+- **Date:** **15 July 2024**
 - **Current Role/Position:** **Student**
 - **Field of Interest:** **Web Development and Design**
 
